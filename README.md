@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shraddha Dwivedi</h1>
-<h3 align="center">Pssionate entry-level data scientist with a solid foundation in machine learning and artificial intelligence. Armed with hands-on projects in machine learning, SQL, database, Tableau, data analysis, and programming languages such as Python. Seeking an opportunity to apply academic knowledge and analytical skills to real-world projects, with a keen interest in leveraging advanced algorithms to drive actionable insights and enhance business performance from India</h3>
+<h3 align="center">Passionate entry-level data scientist with a solid foundation in machine learning and artificial intelligence. Armed with hands-on projects in machine learning, SQL, database, Tableau, data analysis, and programming languages such as Python. Seeking an opportunity to apply academic knowledge and analytical skills to real-world projects, with a keen interest in leveraging advanced algorithms to drive actionable insights and enhance business performance from India</h3>
 
 - 👨‍💻 All of my certificates are available at [www.linkedin.com/in/shraddha-dwivedi-b73437287](www.linkedin.com/in/shraddha-dwivedi-b73437287)
 
